@@ -51,23 +51,23 @@ The categorical features are Gender, Education Level and Job title.
 
 
 ### 3.3. Bivariate Analysis
-       #### A. Top 10 highest paying Job Roles<br>
-       ![Highest paying jobs](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Top%2010%20highest%20paying%20job%20roles.png)
+#### A. Top 10 highest paying Job Roles<br>
+![Highest paying jobs](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Top%2010%20highest%20paying%20job%20roles.png)
        
-       #### B. Salary Distribution for job Roles with respect to Gender<br>
-       ![Job Roles vs Gender](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Salary%20Distribution%20for%20job%20Roles%20with%20respect%20to%20Gender.png)
+#### B. Salary Distribution for job Roles with respect to Gender<br>
+![Job Roles vs Gender](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Salary%20Distribution%20for%20job%20Roles%20with%20respect%20to%20Gender.png)
 
-       
-       #### C. Salary Distribution for individuals with varying Educations<br>
-       ![Salary vs Education](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Salary%20Distribution%20individuals%20with%20varying%20Educations.png)
-       
-       #### D. Scatterplot of Salary vs. Experience with Regression Line<br>
-       ![Salary vs Experience](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Scatterplot%20of%20Salary%20vs.%20Experience%20with%20Regression%20Line.png)
-       
-       #### E. Scatterplot of Salary vs. Age with Regression Line<br>
-       ![Salary vs Age](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Scatterplot%20of%20Salary%20vs.%20Age%20with%20Regression%20Line.png)
-       
-       #### F. Years of Experience vs Salary based on gender
-       ![Experience vs Salary by Gender](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Years%20of%20Experience%20vs%20Salary%20based%20on%20gender.png)
+
+#### C. Salary Distribution for individuals with varying Educations<br>
+![Salary vs Education](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Salary%20Distribution%20individuals%20with%20varying%20Educations.png)
+
+#### D. Scatterplot of Salary vs. Experience with Regression Line<br>
+![Salary vs Experience](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Scatterplot%20of%20Salary%20vs.%20Experience%20with%20Regression%20Line.png)
+
+#### E. Scatterplot of Salary vs. Age with Regression Line<br>
+![Salary vs Age](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Scatterplot%20of%20Salary%20vs.%20Age%20with%20Regression%20Line.png)
+
+#### F. Years of Experience vs Salary based on gender
+![Experience vs Salary by Gender](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Years%20of%20Experience%20vs%20Salary%20based%20on%20gender.png)
 
 
