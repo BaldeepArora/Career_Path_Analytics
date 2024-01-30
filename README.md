@@ -53,6 +53,37 @@ The categorical features are Gender, Education Level and Job title.
 
 ### 3.2. Univariate Analysis
 
+#### A. Age Distribution of Working Professionals<br>
+![Age Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Age%20Distribution%20for%20Working%20Professionals.png)
+
+Above figure shows the univariate analysis of employee ages plotted in histogram chart which uses ggplot package.The resulting plot, which is displayed below the code, shows the age distribution for working professionals. The x-axis represents employee ages, and the y-axis represents the number of employees. The histogram reveals the frequency of employees within certain age ranges, with each bar's height indicating the count of employees within that age bin. The plot visually suggests a diverse range of ages among the employees, with certain age ranges appearing more frequently than others.
+
+#### B. Gender Distribution<br>
+![Gender Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Gender%20Distribution.png)
+
+Above figure shows the gender distribution pie chart. It processes a data frame to calculate the count and percentage of each gender. It then uses these calculations to generate a pie chart with ggplot2, assigning distinct colors to male and female categories. The chart shows a near-even gender split in the dataset, with females making up 52% and males 48%.
+
+#### C. Employee Years of Experience Distribution<br>
+![YearofExperience Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Years%20of%20Experience%20Distribution.png)
+
+Above figure shows the histogram bar chart where it shows the distribution of years of experience in a dataset. The histogram is created using ggplot2, with the years of experience on the x-axis and frequency on the y-axis. It shows a wide range of experience levels among individuals in the dataset, with a higher frequency of individuals having fewer years of experience and gradually fewer individuals as the number of years of experience increases. This suggests that the dataset contains many entry-level or mid-level professionals and fewer individuals with extensive experience.
+
+
+#### D. Salary Distribution<br>
+![Salary Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Salary%20Distribution.png)
+
+Above figure shows the histogram plot for salary distribution. The visualization, created using ggplot2 in R, represents salary on the x-axis and frequency on the y-axis. The histogram, colored in orange with black borders for each bin, suggests a right-skewed distribution where a larger number of individuals have lower salaries, with frequency decreasing as salary increases. This pattern often indicates that higher salaries are less common within the dataset.
+
+#### E. Education Level<br>
+![Salary Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Distribution%20of%20Education%20Level.png)
+
+Above figure shows the bar plot where distribution of education levels within a dataset. The plot displays three categories: Bachelor's, Master's, and PhD. A significant majority, 60.1%, have Bachelor's degrees. Master's degree holders make up 26.3%, and PhD holders are the smallest group at 13.7%. This distribution suggests that the dataset primarily consists of individuals with undergraduate education, while postgraduate holders, especially PhDs, are less common.
+
+#### F. Top 10 Job titles
+![Salary Distribution](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/Top%2010%20most%20common%20Job%20Titles.png)
+
+Above figure shows the bar plot of job titles from a dataset. The script sorts job titles by their frequency, nd creates a bar plot using ggplot2. The resulting plot has job titles on the x-axis and their frequency on the y-axis. The most common job title appears to have a significantly higher frequency than the others, while the rest have a more gradual decline in frequency.
+
 
 ### 3.3. Bivariate Analysis
 #### A. Top 10 highest paying Job Roles<br>
