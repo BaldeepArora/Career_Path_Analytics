@@ -36,7 +36,7 @@ Missing values in any row were observed and these rows were dropped before proce
 ## 3. EDA
 Exploratory Data Analysis on the cleaned data was performed.
 
-![Summary Statistics](https://github.com/arshia-pelathur/Career-Path-Analytics/blob/main/DescriptiveStatistics.png)
+![Summary Statistics](https://github.com/BaldeepArora/Career_Path_Analytics/blob/main/Desriptive_Statistics.png)
 
 Above shows the summary statistics of all the feature variable which contains in the data. With Min, Max, Mean, Median, 1st Quartile & 3rd Quartile of numerical features & number of entries of object variable.<br>
 The numerical features are Age, years of experience and Salary. They are slightly skewed as there is difference between the mean and median in the data.<br>
